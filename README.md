@@ -6,7 +6,7 @@ A deep learning project for **classifying flowers** into 5 categories: `daisy`, 
 
 ## Dataset
 
-**[Flower Photos Dataset]([https://www.tensorflow.org/datasets/catalog/flower_photos](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition))**
+**[Flower Photos Dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition)**
 Contains ~4,242 images across 5 classes.
 
 ---
